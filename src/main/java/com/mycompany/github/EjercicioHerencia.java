@@ -18,5 +18,13 @@ public class EjercicioHerencia {
      cuenta1.consignar(2501);
      cuenta1.imprimir();
      
+     cuenta1.retirar (1501);
+     cuenta1.imprimir();
+     
+     cuenta1.retirar (15000);
+     cuenta1.imprimir();
+     
+     
+     
     }
 }
